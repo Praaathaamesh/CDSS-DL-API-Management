@@ -1,11 +1,11 @@
 # DL-API-Management
 
-## Cores ⭐
+## Cores
 - Regular commits for documentation code implements for Keras and TensorFlow
 - Essential part of a much larger spanning project.
 - Key idea behind this repo is to maintain the flow of work, especially to keep future projects afloat, since we are providing absolute reference to the required data.
 
-## Pre-requisites 🧰
+## Pre-requisites
 - Google Colab/Jupyter Notebook
 - Important Python libraries and Python4
 
