@@ -9,7 +9,14 @@
 - Google Colab/Jupyter Notebook
 - Important Python libraries and Python4
 
-## Sources 📖
+## Sources
 > Please follow given links for more in-depth information regarding the source material used!
 - [Keras API Documentation](https://keras.io/guides/)
 - [TensorFlow API Documentation](https://www.tensorflow.org/guide)
+
+## Notes
+> [!WARNING]
+> Contents of this repository will be refactored till the completion of the assignment.
+
+>[!IMPORTANT]
+> Make sure to fork and reference this repository for a further documented use on this site.
